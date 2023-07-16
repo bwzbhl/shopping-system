@@ -1,0 +1,4 @@
+target/
+*.db
+
+python/name_list.csv
