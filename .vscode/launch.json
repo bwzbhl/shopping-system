@@ -3,9 +3,23 @@
     "configurations": [
       {
         "type": "java",
+        "name": "AdminLogin",
+        "request": "launch",
+        "mainClass": "org.example.AdminLogin",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
+        "name": "ItemManage",
+        "request": "launch",
+        "mainClass": "org.example.ItemManage",
+        "projectName": "Template-Java-Projects-with-Maven"
+      },
+      {
+        "type": "java",
         "name": "Debug (Launch)",
         "request": "launch",
-        "mainClass": "org.example.Main",
+        "mainClass": "org.example.Main"
       }
     ]
   }
